@@ -1,0 +1,42 @@
+.container {
+  background: linear-gradient(
+    178deg,
+    rgba(201, 234, 252, 0.51) 14.9%,
+    rgba(139, 192, 216, 0.73) 80%
+  );
+  border-radius: 10px;
+  padding: 20px 15px;
+  margin: 20px;
+}
+h1 {
+  color: black;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+h2 {
+  padding-left: 10px;
+  font-size: 20px;
+}
+h4 {
+  padding-top: 40px;
+}
+h6 {
+  padding-left: 5px;
+  padding-top: 20px;
+}
+.city {
+  color: #0774d9;
+}
+.navbar {
+  padding-left: 0;
+}
+.btn {
+  color: white;
+  background-color: green;
+}
+.precepitation {
+  font-size: 40px;
+}
+.currentCity {
+  text-align: center;
+}
